@@ -1,4 +1,7 @@
 ## Airplane Purchase Risk Assessment
+
+**Author**: [Florence Joy Aran](mailto:florence.aran@student.moringaschool.com)
+
 ### Project Overview
 The objective of this analysis is to evaluate and determine low-risk aircrafts to be purchased by our company, Mawingu Group of Companies as we gear towards expanding our portfolio and breaking into the aviation industry.We aim to opeate airplanes for commercial and private enterprises hence we need to determine the potential risks of aircrafts.
 
@@ -25,3 +28,24 @@ We will graphically analyze key variables and their relationships to identify ri
 
 ![categories_vs_injuries](./images/categories_vs_injuries.png)
 
+![fatalities_vs_categories](./images/fatalities_vs_categories.png)
+
+![engine_vs_fatalities](./images/engine_vs_fatalities.png)
+
+
+### Conclusions
+
+Penetrating into the aviation industry necessitates selecting the right aircarfts that guarantee reliability, operational efficiency and safety. Through this analysis, we have established trends that provide critical insights into how different manufacturers, aircraft types and engine configurations contribute to accident occurances and overall safety. 
+
+One of the key findings is that the type of aircraft and its safety measures are very vital. Inasmuch as most of the aircraft categories were involved in accidents, it is important to note the number of uninjured people was significantly higher in some aircrafts than fatalities. 
+
+Using the event date time, we are able to see total fatalities over the years. We are able to see years that had the least fatalities and do further analysus to understand what safety features were implemented in those years to mitigate accident occurrences.
+
+Lastly, by analysing total fatalities against engine types, we are able to identify engine types deemed to be safer and have less fatalities than others. 
+
+### Recommendations
+
+Based on the analysis, here are my recommendations:
+1. Prioritize aircrafts and manufacturers with proven safety records - having analysed the injury severity for different aircrafts, identifying and investing on aircrafts that have higher survival rates and lower fatality rates would ensure safety of the aircraft and the passengers.
+2. Ensure aircraft engine safety - inorder to enhance opertaional safety, we need to prioritize engines that have lower fatality rates. We should also ensure regular maintenance activities are conducted to minimize accident risks and ensure they perform at optimum efficiency.
+3. Invest in aircrafts with strong structural integrity and minimal damage history - prioritizing aircraft models that have demonstrated less damage in accidents compared to others is key because with strong structural integrity, the severity of injuries is reduced.
