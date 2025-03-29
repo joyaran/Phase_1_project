@@ -26,9 +26,15 @@ After exploring the data, I need to clean the data to make it easier to work wit
 
 We will graphically analyze key variables and their relationships to identify risk factors, patterns and trends across the dataset. The desired outcome of this is to deduce clear and actionable insights for Mawingu Group's aviation business decisions.
 
+This analysis shows the average number of different injuries(fatalities, minor, serious, uninjured) across different aircraft categories. We an see that most aircrafts had fairly more uninjured people than they did fatalities when accidents/incidents ocurred.
+
 ![categories_vs_injuries](./images/categories_vs_injuries.png)
 
-![fatalities_vs_categories](./images/fatalities_vs_categories.png)
+By analyzing the relationship between the make/manufacturer vs average the total fatal injuries, we are able to identify the manufacturers with a history of higher fatalities. This could potentially be due to flaws in their manufacturing or design, or not having proper maintenance or safety procedures.
+
+![fatalities_vs_make](./images/fatalities_vs_make.png)
+
+This analysis elucidates how the complexity, performance, and operational dangers of various engine types vary. We therefore can identify the engine types that have had the most/least fatalities in the event of an accident by analyzing the average number of fatalities linked to each engine type. Turbo fan engine has the highest average fatalities potentially due to the high operating speeds, increased fire hazards from fuel loads, larger passenger capacity and complex failure risks.
 
 ![engine_vs_fatalities](./images/engine_vs_fatalities.png)
 
@@ -49,3 +55,10 @@ Based on the analysis, here are my recommendations:
 1. Prioritize aircrafts and manufacturers with proven safety records - having analysed the injury severity for different aircrafts, identifying and investing on aircrafts that have higher survival rates and lower fatality rates would ensure safety of the aircraft and the passengers.
 2. Ensure aircraft engine safety - inorder to enhance opertaional safety, we need to prioritize engines that have lower fatality rates. We should also ensure regular maintenance activities are conducted to minimize accident risks and ensure they perform at optimum efficiency.
 3. Invest in aircrafts with strong structural integrity and minimal damage history - prioritizing aircraft models that have demonstrated less damage in accidents compared to others is key because with strong structural integrity, the severity of injuries is reduced.
+
+### For More Information
+
+See the full analysis in the [Jupyter Notebook](./phase_1_project.ipynb) or review this [presentation(./Animal_Shelter_Needs_Presentation.pdf).
+
+For additional info, contact Florence Joy Aran at [florence.aran@student.moringaschool.com](mailto:florence.aran@student.moringaschool.com)
+
