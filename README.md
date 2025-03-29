@@ -5,7 +5,7 @@
 ### Project Overview
 The objective of this analysis is to evaluate and determine low-risk aircrafts to be purchased by our company, Mawingu Group of Companies as we gear towards expanding our portfolio and breaking into the aviation industry.We aim to opeate airplanes for commercial and private enterprises hence we need to determine the potential risks of aircrafts.
 
-This project analyzes aviation accident data from the National Transport Safety Board, covering civil aviation accidents and selected incidents that occured in the United States and international waters from 1962 to 2023.By extensive data analysis of this dataset, we aim to identify aircrafts with impeccable safety records.
+This project analyzes aviation accident data from the National Transportion Safety Board, covering civil aviation accidents and selected incidents that occured in the United States and other countries from 1962 to 2023.By extensive data analysis of this dataset, we aim to identify aircrafts with impeccable safety records.
 
 The major focus areas for this analysis will be on quantifiable metrics like aircraft damage, total fatalities in accidents while comparing them to aircraft categories, make and engine types. Ultimately, Mawingu group of companies aims to build a foundation for long-term success in the aviation industry by prioritizing the safety of its crew and customers.
 
