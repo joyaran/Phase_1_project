@@ -58,7 +58,7 @@ Based on the analysis, here are my recommendations:
 
 ### For More Information
 
-See the full analysis in the [Jupyter Notebook](./phase_1_project.ipynb) or review this [presentation(./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./phase_1_project.ipynb).
 
 For additional info, contact Florence Joy Aran at [florence.aran@student.moringaschool.com](mailto:florence.aran@student.moringaschool.com)
 
